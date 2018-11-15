@@ -105,7 +105,5 @@ public class sampleApp extends Activity
     public native void changeSpeed(int manualSteering);
     public native void changeSteering(int manualSpeed);
     public native void changeStopStart(int manualStopStart);
-
-
-   
+ 
 }
